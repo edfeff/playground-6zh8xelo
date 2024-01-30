@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! 这是一个简单的教程示例
 
 This Java template lets you get started quickly with a simple one-page playground.
 
